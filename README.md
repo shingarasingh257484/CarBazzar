@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create App
 ![b3](https://github.com/user-attachments/assets/c89545f9-24de-43a3-ab13-ecbedff4cd41)
 
 
